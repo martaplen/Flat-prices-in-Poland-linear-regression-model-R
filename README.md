@@ -16,7 +16,7 @@
 ## Key Findings
 1. ___Size and Condition:___ Larger apartments and those in better condition tend to have higher prices.
 2. ___Proximity to Amenities:___ Closer proximity to schools, clinics, and restaurants is associated with higher housing prices.
-3. ___Building Material:___ Apartments built with brick are generally more expensive.
+3. ___Building Material:___ Apartments built with brick (higher quality material) are generally more expensive. 
 4. ___Location:___ Housing prices in Warsaw are significantly higher than in other cities.
 ---
 ### Data
