@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/530dc189-e640-4370-8233-8698529b8a7b)
 # Determinants of Housing Prices in the Secondary Market in Poland
 ## Overview
-> This project analyzes factors affecting housing prices in the secondary market across major Polish cities. Using an econometric approach, I have developed a linear regression model to identify key determinants of housing prices. The analysis is based on a dataset sourced from Kaggle (created by Krzysztof Jamroz), covering housing sales from August to December 2023.
+> This project analyzes factors that might affect housing prices in the secondary market across major Polish cities. Using an econometric approach, I have developed a linear regression model to identify key determinants of housing prices. The analysis is based on a dataset sourced from Kaggle (created by Krzysztof Jamroz), covering housing sales from August to December 2023.
 
 ## Contents
 * __Introduction:__ A brief overview of the study and its significance.
